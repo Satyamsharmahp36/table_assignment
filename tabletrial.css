@@ -1,0 +1,9 @@
+thead {color: white; background-color: red;}
+.B {background-color: whitesmoke;}
+*{border-collapse: collapse;}
+thead,tr,td,table{padding:10px;}
+table{border:2px solid red;}
+*{margin: 20px;}
+.x {font-size: large; font-weight: 200;}
+.I {font-size: larger;}
+
