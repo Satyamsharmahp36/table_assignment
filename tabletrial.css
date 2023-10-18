@@ -6,4 +6,10 @@ table{border:2px solid red;}
 *{margin: 20px;}
 .x {font-size: large; font-weight: 200;}
 .I {font-size: larger;}
+div img{
+    height: 40px;  
+}
+body{
+    background-color:rgb(253, 252, 252);
+}
 
